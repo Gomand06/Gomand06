@@ -28,7 +28,7 @@
     <a href="https://github.com/Gomand06?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/Gomand06?style=flat-square&color=0969da" /></a>
     <a href="https://github.com/Gomand06?tab=repositories&sort=stargazers"><img alt="Estrellas" src="https://img.shields.io/github/stars/Gomand06?affiliations=OWNER&style=flat-square&color=0969da" /></a>
     <a href="https://www.linkedin.com/in/christopher-g%C3%B3mez-andrade-2282242b2" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://buymeacoffee.com/chrisgomanp" target="_blank"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" /></a>
+    <a href="https://ko-fi.com/thegomand" target="_blank"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" /></a>
   </p>
 
 </div>
@@ -67,8 +67,8 @@ Ingeniero de software **Full-Stack** con sólida experiencia en el diseño, desa
   <a href="https://github.com/Gomand06/Moldy" target="_blank">
     <img alt="Repositorio Showcase" src="https://img.shields.io/badge/Showcase_&_Docs-Gomand06%2FMoldy-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://buymeacoffee.com/chrisgomanp" target="_blank">
-    <img alt="Apoya el Proyecto" src="https://img.shields.io/badge/Apoyar_Proyecto-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  <a href="https://ko-fi.com/thegomand" target="_blank">
+    <img alt="Apoya el Proyecto en Ko-fi" src="https://img.shields.io/badge/Apoyar_en_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </div>
 
@@ -157,8 +157,8 @@ Ingeniero de software **Full-Stack** con sólida experiencia en el diseño, desa
 Si encuentras valor en mis desarrollos, utilizas herramientas como **Moldy** en tus proyectos o deseas respaldar mi trabajo continuo en software y plataformas de código libre:
 
 <p align="left">
-  <a href="https://buymeacoffee.com/chrisgomanp" target="_blank">
-    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donar%20Café-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  <a href="https://ko-fi.com/thegomand" target="_blank">
+    <img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-Apoyar%20en%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </p>
 
@@ -176,8 +176,8 @@ Si encuentras valor en mis desarrollos, utilizas herramientas como **Moldy** en 
   <a href="https://github.com/Gomand06" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Gomand06-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://buymeacoffee.com/chrisgomanp" target="_blank">
-    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-chrisgomanp-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" />
+  <a href="https://ko-fi.com/thegomand" target="_blank">
+    <img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-thegomand-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" />
   </a>
 </p>
 
