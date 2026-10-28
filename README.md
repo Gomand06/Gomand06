@@ -21,13 +21,14 @@
   </table>
 
   # Christopher Gómez Andrade
-  **Software Engineer | Frontend Architecture & Generative Systems**
+  **Full-Stack Software Engineer | Enterprise Platforms & Interactive Systems**
 
   <p>
     <img alt="Perfil Vistas" src="https://komarev.com/ghpvc/?username=Gomand06&style=flat-square&color=0969da" />
     <a href="https://github.com/Gomand06?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/Gomand06?style=flat-square&color=0969da" /></a>
     <a href="https://github.com/Gomand06?tab=repositories&sort=stargazers"><img alt="Estrellas" src="https://img.shields.io/github/stars/Gomand06?affiliations=OWNER&style=flat-square&color=0969da" /></a>
     <a href="https://www.linkedin.com/in/christopher-g%C3%B3mez-andrade-2282242b2" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://buymeacoffee.com/chrisgomanp" target="_blank"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" /></a>
   </p>
 
 </div>
@@ -36,20 +37,20 @@
 
 ## 📌 Perfil Profesional
 
-Ingeniero de software especializado en el desarrollo frontend avanzado, sistemas interactivos y computación gráfica web. Experiencia técnica en el diseño e implementación de aplicaciones web de alto rendimiento, arquitecturas reactivas y motores procedurales basados en vectores matemáticos (SVG/Canvas).
+Ingeniero de software **Full-Stack** con sólida experiencia en el diseño, desarrollo e implementación de plataformas empresariales de misión crítica, aplicaciones web de alta concurrencia y sistemas gráficos interactivos.
 
-- **Arquitectura de Software y Frontend:** Modelado de interfaces complejas con React 19, TypeScript y Tailwind CSS, priorizando rendimiento, accesibilidad y experiencia de usuario fluida.
-- **Gráficos Procedurales y Matemáticas Vectoriales:** Desarrollo de algoritmos generativos, mallas de curvas de Bézier dinámicas, filtros SVG y dinámicas de interacción cinemática en tiempo real.
-- **Sistemas y Servicios Cloud:** Integración de arquitecturas serverless, bases de datos no relacionales con Firebase y despliegue continuo en infraestructura Vercel.
-- **Principios de Ingeniería:** Estructuración de código desacoplado, optimización de complejidad algorítmica y entrega continua con altos estándares de calidad de software.
+- **Plataformas de Gestión Escolar y Sistemas Educativos:** Arquitectura y desarrollo de soluciones integrales para instituciones académicas (control escolar, expedientes de alumnos, evaluación docente, facturación/cobranza y portal de autoservicio para la comunidad escolar).
+- **Sistemas de Gestión de Personal y Control Operativo (HR / Workforce Management):** Implementación de plataformas para seguimiento operativo, control de incidencias, turnos, asistencia y emisión de reportería gerencial.
+- **Sistemas CRM para Nichos Especializados:** Desarrollo de software a medida para prospección, gestión de catálogo de activos, embudos de venta y automatización de procesos comerciales (e.g., sector inmobiliario y de servicios).
+- **Computación Gráfica y Motores Procedurales:** Especialista en dinámicas vectoriales en tiempo real (SVG/Canvas), transformaciones matemáticas de curvas de Bézier, físicas elásticas y micro-interacciones de alto rendimiento.
 
 ---
 
 ## 🌟 Proyecto Estrella: Moldy
 
-### **Generador Procedural Interactivo de Gráficos Vectoriales y Mascotas 2D**
+### **Playground Interactivo de Mascotas 2D & Motor Procedural SVG**
 
-> **[Moldy](https://moldy-xi.vercel.app/)** es una plataforma web y motor procedural que genera mascotas vectoriales dinámicas en tiempo real mediante matemáticas aplicadas a curvas SVG, cinemática reactiva y física elástica.
+> **[Moldy](https://moldy-xi.vercel.app/)** es un motor procedural y playground interactivo que genera mascotas vectoriales en tiempo real mediante algoritmos matemáticos en curvas SVG, 16 estados cinemáticos reactivos y físicas elásticas de compresión.
 
 <div align="center">
   <a href="https://moldy-xi.vercel.app/" target="_blank">
@@ -64,27 +65,32 @@ Ingeniero de software especializado en el desarrollo frontend avanzado, sistemas
     <img alt="Demo en Vivo" src="https://img.shields.io/badge/Demo_en_Vivo-moldy--xi.vercel.app-238636?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Gomand06/Moldy" target="_blank">
-    <img alt="Repositorio GitHub" src="https://img.shields.io/badge/Código_Fuente-Gomand06%2FMoldy-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Repositorio Showcase" src="https://img.shields.io/badge/Showcase_&_Docs-Gomand06%2FMoldy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://buymeacoffee.com/chrisgomanp" target="_blank">
+    <img alt="Apoya el Proyecto" src="https://img.shields.io/badge/Apoyar_Proyecto-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </div>
 
 <br />
 
-#### Aspectos Técnicos Destacados de Moldy:
-- **Motor Procedural en SVG:** Generación matemática determinista de formas orgánicas complejas utilizando trazados de Bézier cúbicos, máscaras de recorte dinámicas y gradientes de sombreado volumétrico sin dependencias de imágenes rasterizadas.
-- **Sistema Cinemático y Máquina de Estados (16 Actitudes):** Transiciones orgánicas entre 16 estados emocionales (*Attentive, Excited, Curious, Proud, Confused, Sleepy*, entre otros) con variación en postura, apertura ocular y velocidad de respuesta.
-- **Interacción y Seguimiento en Tiempo Real:** Detección y seguimiento continuo de coordenadas del puntero/toque, adaptando la inclinación corporal y convergencia de mirada según la actitud activa.
-- **Física *Squish* y Ciclos Biológicos:** Dinámica de respuesta elástica al impacto mediante deformación de matriz SVG, sincronizada con osciladores para respiración suave y parpadeo probabilístico.
-- **Arquitectura y Portabilidad:** Implementado con React 19, TypeScript y Vite. Soporta exportación directa a SVG vectorial limpio para diseñadores y desarrolladores, así como rasterizado en PNG de alta resolución y persistencia mediante URLs basadas en semilla (`?seed=`).
+#### Arquitectura y Capacidades de Moldy:
+- **Motor Procedural Libre de Imágenes Rasterizadas:** Cálculo dinámico de trazados orgánicos con curvas de Bézier cúbicas, máscaras SVG, gradientes volumétricos y patrones de textura generados al vuelo.
+- **Máquina de Estados Cinemática (16 Actitudes):** Transición fluida entre actitudes emocionales (*Neutral, Attentive, Excited, Happy, Angry, Curious, Shy, Sleepy*, etc.) que alteran postura, escala y expresión.
+- **Seguimiento Reactivo y Físicas *Squish*:** Detección de puntero para seguimiento de mirada en tiempo real y dinámica de deformación elástica por toque (*boop/squish*), con ciclo de respiración y parpadeo orgánico.
+- **Modelo de Distribución y Licenciamiento:** El núcleo generador y código fuente de la aplicación se mantienen bajo **licencia privada**, mientras que las mascotas exportadas (`.SVG` y `.PNG`) se ofrecen para uso libre tanto personal como comercial bajo licencia **[Creative Commons Atribución 4.0 (CC BY 4.0)](https://github.com/Gomand06/Moldy)**. El repositorio público funciona como vitrina técnica (Showcase), documentación y especificación de uso.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 💼 Plataformas y Proyectos Seleccionados
 
-| Proyecto | Descripción Técnica | Stack Tecnológico | Enlaces |
+| Plataforma / Proyecto | Tipo / Dominio | Descripción Técnica y Alcance | Stack Principal |
 | :--- | :--- | :--- | :--- |
-| **Moldy** | Motor procedural y playground interactivo de generación de avatares SVG con física reactiva, seguimiento ocular y 16 actitudes cinemáticas. | `React 19` `TypeScript` `Tailwind CSS` `Vite` `SVG API` | [Demo](https://moldy-xi.vercel.app/) • [Código](https://github.com/Gomand06/Moldy) |
-| **HackathonTecMty2025** | Prototipado rápido de solución tecnológica de alto impacto desarrollada bajo entorno intensivo y metodología ágil para el Hackathon del Tecnológico de Monterrey. | `JavaScript` `HTML5` `CSS3` `Web APIs` | [Código](https://github.com/Gomand06/HackathonTecMty2025) |
+| **[Moldy](https://moldy-xi.vercel.app/)** | Motor Gráfico / Web App | Motor procedural y playground de generación de avatares SVG con cinemática reactiva y física elástica. | `React 19` `TypeScript` `Tailwind CSS` `Vite` `SVG API` |
+| **Plataforma Integral de Gestión Escolar** | Sistema Educativo / ERP Escolar | Plataforma completa para instituciones educativas: control escolar, administración de calificaciones, portal de docentes, expedientes y gestión financiera/cobranza. | `Full-Stack Web` `Bases de Datos` `Servicios Cloud` `RBAC` |
+| **Sistema de Gestión de Personal (CoreControl)** | Operaciones & HR Management | Plataforma integral para supervisión operativa, registro y control de asistencia de personal, gestión de incidencias, turnos y reportería automatizada. | `Arquitectura Modular` `Dashboard Analytics` `REST APIs` |
+| **CRM Inmobiliario Especializado** | CRM Vertical / Bienes Raíces | Plataforma CRM orientada al sector inmobiliario: gestión integral de catálogo de inmuebles, prospección de clientes, embudos de venta y seguimiento comercial. | `JavaScript` `Cloud Storage` `Filtros Avanzados` `Web UI` |
+| **[HackathonTecMty2025](https://github.com/Gomand06/HackathonTecMty2025)** | Prototipado de Alto Rendimiento | Solución tecnológica desarrollada en formato intensivo y entorno colaborativo ágil para el Hackathon del Tecnológico de Monterrey. | `JavaScript` `HTML5` `CSS3` `Web APIs` |
 
 ---
 
@@ -99,17 +105,17 @@ Ingeniero de software especializado en el desarrollo frontend avanzado, sistemas
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 </p>
 
-### Frontend y Computación Gráfica
+### Frontend, UI/UX & Sistemas Interactivos
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="SVG" src="https://img.shields.io/badge/SVG_Engine-FFB13B?style=flat-square&logo=svg&logoColor=black" />
+  <img alt="SVG Engine" src="https://img.shields.io/badge/SVG_Graphics_Engine-FFB13B?style=flat-square&logo=svg&logoColor=black" />
 </p>
 
-### Backend, Infraestructura y Cloud
+### Backend, Bases de Datos & Infraestructura Cloud
 <p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -121,32 +127,44 @@ Ingeniero de software especializado en el desarrollo frontend avanzado, sistemas
 
 ---
 
-## 📊 Métricas de GitHub
+## 📊 Métricas de Desarrollo en GitHub
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Gomand06&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&rank_icon=percentile" />
+        <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Gomand06&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=percentile" />
       </td>
       <td align="center">
-        <img alt="Lenguajes Principales" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomand06&layout=compact&langs_count=6&theme=github_dark&hide_border=false&border_color=30363d" />
+        <img alt="Lenguajes Principales" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomand06&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img alt="Racha de Actividad" src="https://streak-stats.demolab.com?user=Gomand06&theme=github_dark&hide_border=false&border=30363d" />
+  <img alt="Racha de Actividad" src="https://streak-stats.demolab.com?user=Gomand06&theme=github_dark&hide_border=true" />
 
   <br /><br />
 
-  <img alt="Gráfico de Contribuciones" src="https://github-readme-activity-graph.vercel.app/graph?username=Gomand06&theme=github-dark&hide_border=false&border=30363d" />
+  <img alt="Gráfico de Actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=Gomand06&theme=github-dark&hide_border=true&area=true" />
 </div>
 
 ---
 
-## 💼 Contacto Profesional
+## ☕ Apoyo al Desarrollo de Proyectos
+
+Si encuentras valor en mis desarrollos, utilizas herramientas como **Moldy** en tus proyectos o deseas respaldar mi trabajo continuo en software y plataformas de código libre:
+
+<p align="left">
+  <a href="https://buymeacoffee.com/chrisgomanp" target="_blank">
+    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donar%20Café-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 💼 Contacto y Enlaces Profesionales
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christopher-g%C3%B3mez-andrade-2282242b2" target="_blank">
@@ -158,10 +176,13 @@ Ingeniero de software especializado en el desarrollo frontend avanzado, sistemas
   <a href="https://github.com/Gomand06" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Gomand06-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <a href="https://buymeacoffee.com/chrisgomanp" target="_blank">
+    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-chrisgomanp-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <sub>Christopher Gómez Andrade • Perfil de Ingeniería de Software</sub>
+  <sub>Christopher Gómez Andrade • Software Engineering Portfolio</sub>
 </div>
