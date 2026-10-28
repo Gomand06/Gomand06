@@ -103,7 +103,7 @@ Estudiante de Ciencias Computacionales en la Universidad Autónoma de Nuevo Leó
   <a href="https://github.com/Gomand06" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.buymeacoffee.com/Gomand06" target="_blank">
+  <a href="https://buymeacoffee.com/chrisgomanp" target="_blank">
     <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
